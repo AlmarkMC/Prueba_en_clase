@@ -9,6 +9,7 @@ public class Saludo {
 		System.out.println("¿Cómo estáis?");
 		System.out.println("Espero que bien");
  System.out.println( "Hola");
+ System.out.println("Adios");
 
 	}
 
