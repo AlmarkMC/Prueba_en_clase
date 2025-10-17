@@ -11,6 +11,7 @@ public class Saludo {
  System.out.println( "Hola");
  System.out.println("Adios");
 System.out.println("buenas");
+System.out.println("54");
 	}
 
 }
