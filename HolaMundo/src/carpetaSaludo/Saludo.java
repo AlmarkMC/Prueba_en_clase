@@ -10,7 +10,7 @@ public class Saludo {
 		System.out.println("Espero que bien");
  System.out.println( "Hola");
  System.out.println("Adios");
-
+System.out.println("buenas");
 	}
 
 }
